@@ -1,0 +1,54 @@
+
+
+
+main {
+  padding-top: 60px;	
+  font-size: 0;
+
+}
+
+div {
+	box-sizing: border-box;
+	border: 1px solid black;
+}
+
+.container {
+	border: 1px black solid;
+	width: 800px;
+	margin: auto;
+}
+
+.upper {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+
+}
+
+.upper-one {
+	background-color: green;
+
+}
+
+.upper-two {
+	background-color: blue;
+}
+
+.lower {
+	width: 33.33%;
+	height: 300px;
+ 	display: inline-block;
+
+}
+
+.lower-one{
+	background-color: grey;
+}
+
+.lower-two{
+	background-color: Black;
+}
+
+.lower-three{
+	background-color: Yellow;
+}
