@@ -1,0 +1,40 @@
+main {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+	border: 1px black solid;
+	color:black;
+}
+
+.upper {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+}
+
+.upper-one {
+	color: green;
+}
+
+.upper-two {
+	color: blue;
+}
+
+.lower {
+	display: inline-block;
+	width: 33.33%;
+	height: 300px;
+}
+
+.lower-one{
+	color: grey;
+}
+
+.lower-one{
+	color: Black;
+}
+
+.lower-one{
+	color: Yellow;
+}
