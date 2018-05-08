@@ -40,27 +40,26 @@ main {
 	position: relative;
 }
 
-div {
+.box {
 	border: 10px green dotted;
 	width: 600px;
 	height: 300px;
-	position: absolute;
-	top: 250px;
-	left: 275px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
 }
 
 .cat {
 	width: 200px;
 	height: 200px;
-	position: fixed;
-	left: 200px;
-	top: 100px;
+	position: absolute;
+
 }
 
 .dog {
 	width: 200px;
 	height: 200px;
-	position: fixed;
-	left: 800px;
-	top: 400px;
+	position: absolute;
+
 }
